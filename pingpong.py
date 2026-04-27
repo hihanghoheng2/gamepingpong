@@ -1,4 +1,5 @@
 #=====pingpong game======
+#=====halo ini adalah perubahan di sisi VSCode=======
 from pygame import *
 class GameSprite(sprite.Sprite):
    def __init__(self, player_image, player_x, player_y, player_speed, wight, height):
